@@ -4,7 +4,7 @@ A fun and simple **Random Letter Picker** built using **HTML**, **CSS**, and **J
 
 ## Demo
 
-[Live Demo](https://random-letter-sample.netlify.app/)  
+🔗 [Live Demo](https://random-letter-sample.netlify.app/)  
 
 ## Developed By
 **Gayathri G**  
